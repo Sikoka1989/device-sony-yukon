@@ -142,3 +142,6 @@ DEVICE_PROVISIONED=1
 
 # EGL blobs crash on screen off
 ro.egl.destroy_after_detach=true
+
+# Setupwizard
+ro.setupwizard.mode=OPTIONAL
